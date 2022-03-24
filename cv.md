@@ -3,6 +3,7 @@
 * e-mail: v.pavel.03@gmail.com
 * Phone: +375292868385
 * LinkedIn: [My Profile](https://www.linkedin.com/in/pavel-vlasov-461a08220/)
+* Discord: [My Profile](Pavel_Vlasov(Alchi-Alchi)#1184)
 ---
 ## *About me*
  I would like to upgrade my frontend development skills. I like to learn something new, to gain knowledge that can help me in my work.
