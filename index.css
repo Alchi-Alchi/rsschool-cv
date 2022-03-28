@@ -1,0 +1,69 @@
+﻿body {
+  margin: 0;
+}
+
+.wrapper {
+  width: 70%;
+  margin: 0 auto;
+}
+
+a {
+  text-decoration: none;
+  color: white;
+}
+
+#name {
+  text-align: center;
+  font-weight: bold;
+  font-size: 42px;
+  background-color: rgba(80, 80, 80, 1);
+  color: white;
+}
+
+span {
+  font-style: italic;
+  font-size: 36px;
+}
+
+.aboutMe, .skills {
+  display: flex;
+  margin-bottom: 5px;
+  width: 100%;
+}
+
+#info, #skills-items {
+  padding: 5px;
+  font-size: 24px;
+  background-color: rgba(80, 80, 80, 1);
+  color: white;
+  width: inherit;
+}
+
+#plate {
+  transform: rotate(180deg);
+  transform-origin: center;
+  writing-mode: vertical-lr;
+  text-orientation:sideways;
+  text-align: center;
+  margin: 0;
+  background-color: rgba(50, 100, 150, 1);
+  color: white;
+}
+
+#mark {
+  background-color: darkorange;
+}
+
+#profiles {
+  text-align: center;
+  background-color: rgba(50, 100, 150, 1);
+}
+
+#contacts {
+  margin: 0;
+  padding: 10px;
+  font-size: 20px;
+  text-align: center;
+  color: white;
+  background-color: rgba(80, 80, 80, 1);
+}
